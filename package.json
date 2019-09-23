@@ -1,0 +1,10 @@
+{
+    "name": "jaipuna-fb-emulator-test",
+    "version": "1.0.0",
+    "repository": "git@github.com:BrandiATMuhkuh/jaipuna-fb-emulator-test.git",
+    "author": "Jürgen Brandstetter <jurgen@jaipuna.com>",
+    "license": "MIT",
+    "dependencies": {
+        "firebase-tools": "^7.3.2"
+    }
+}
