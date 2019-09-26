@@ -20,7 +20,8 @@
     "devDependencies": {
         "firebase-functions-test": "^0.1.6",
         "mocha": "^6.2.0",
-        "firebase-tools": "^7.3.2"
+        "firebase-tools": "^7.3.2",
+        "@firebase/testing": "^0.13.2"
     },
     "private": true
 }
